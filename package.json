@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thomazoide/MERN.git"
+    "url": "git+https://github.com/jerryrocked/Desarrollo_WEB_Movil_7394.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Thomazoide/MERN/issues"
+    "url": "https://github.com/jerryrocked/Desarrollo_WEB_Movil_7394.git/issues"
   },
-  "homepage": "https://github.com/Thomazoide/MERN#readme",
+  "homepage": "https://github.com/jerryrocked/Desarrollo_WEB_Movil_7394.git",
   "dependencies": {
     "apollo-server-express": "^3.10.2",
     "dotenv": "^16.0.2",
